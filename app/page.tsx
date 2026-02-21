@@ -1,9 +1,9 @@
-import { Header } from "@/components/website/header"
-import { Hero } from "@/components/website/hero"
-import { Statistics } from "@/components/website/statistics"
-import { Features } from "@/components/website/features"
-import { CTA } from "@/components/website/cta"
-import { Footer } from "@/components/website/footer"
+import { Header } from "@/components/header"
+import { Hero } from "@/components/hero"
+import { Statistics } from "@/components/statistics"
+import { Features } from "@/components/features"
+import { CTA } from "@/components/cta"
+import { Footer } from "@/components/footer"
 
 export const metadata = {
   title: "Homepage - Modern Website",
